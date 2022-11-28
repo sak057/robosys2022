@@ -1,3 +1,4 @@
+# robosys2022
 # plusコマンド
 ![test](https://github.com/sak057/robosys2022/actions/workflows/test.yml/badge.svg)
 
@@ -22,7 +23,7 @@ Codeからコピーして自分のコード記述場所にペーストする。
 ## テスト環境
 * Ubuntu22.04.1LTS
 
-# robosys2022
+#権利関係
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
 
 * © 2022 Sakuto Shirasawa
