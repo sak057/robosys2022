@@ -1,12 +1,9 @@
-# robosys2022
 # plusコマンド
-![test](https://github.com/sak057/robosys2022/actions/workflows/test.yml/badge.svg)
-
-
+![test](https://github.com/sak057/robosys2022/actions/workflows/test.yml/badge.svg)  
 概要    
 標準入力から読み込んだ数字を足す。  
 ダウンロード方法    
-Codeからコピーして自分のコード記述場所にペーストする。  
+'''  
 
 実行方法  
 計算したい値を標準入力でコードに読み込ませて実行する。  
