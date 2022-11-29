@@ -22,7 +22,7 @@ git clone https://github.com/sak057/robosys2022
 ## テスト環境
 * Ubuntu22.04.1LTS
 
-## 権利関係
+## 著作権について
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
 
 * © 2022 Sakuto Shirasawa
