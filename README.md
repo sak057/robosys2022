@@ -1,3 +1,6 @@
+# リポジトリの概要
+このリポジトリには、plusコマンドに関するコードとテストがあります。  
+
 # plusについて
 ![test](https://github.com/sak057/robosys2022/actions/workflows/test.yml/badge.svg)  
 概要    
